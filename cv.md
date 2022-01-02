@@ -1,13 +1,13 @@
-# Alevtina Zhukoven
+# rsschool-cv
 
-## Junior Frontend Developer
+# Alevtina Zhukoven
 
 ## **Contacts**
 * Location: Kraków, Poland  
 * Phone: +48573105871  
 * E-mail: alevtina.zhukoven@gmail.com    
-* LinkedIn: <code>[alevtina-zhukoven](https://www.linkedin.com/in/alevtina-zhukoven-97a689b4 "LinkedIn - alevtina-zhukoven")</code>
-* GitHub: <code>[Levtiana](https://github.com/Levtiana "GitHub - Levtiana")</code>  
+* LinkedIn: [alevtina-zhukoven](https://www.linkedin.com/in/alevtina-zhukoven-97a689b4 "LinkedIn - alevtina-zhukoven")
+* GitHub: [Levtiana](https://github.com/Levtiana "GitHub - Levtiana")
 
 ## **About me:**
   I've been interested in web development for many years. Two years ago I started my way in Web Development with cources on Codecademy platform. But had to stop it because of Covid-19 and returned in QA speciality. Now I'm continue studying on the RS School. Web development is helping me with my work, and can give me additional work in future. I like challenges.  
