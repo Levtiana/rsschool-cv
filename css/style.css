@@ -1,0 +1,151 @@
+:root {
+    --dark: #6b6b6b;
+    --bright: #b9d4f8;
+    --grey: #b9d4f873;
+}
+
+body {
+    background-color: rgb(255, 250, 246);
+}
+
+.wrapper {
+    margin: 50px auto;
+    width: 1024px;
+    min-height: 100%;
+    background-color: rgb(240, 252, 209);
+    box-shadow: 10px 10px 30px -1px rgba(0, 0, 0, 0.3);
+    border-bottom: #505050;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+header {
+    padding: 5px;
+    text-align: center;
+}
+
+.menu__list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    list-style: none;
+    margin: 10px;
+    padding: 0;
+    font-size: 16px;    
+}
+
+.menu a {
+    padding: 14px 10px;
+    line-height: 50px;
+    color: rgb(106, 143, 92);
+    text-decoration: none;
+  }
+
+.menu a:hover {
+    color: var(--dark);
+}
+
+main {
+    padding: 0 35px;
+    margin-bottom: 20px;
+  }
+  
+.columns {
+    display: flex;
+}
+
+.left_column {
+    color: black; 
+    margin-right: 35px;
+}
+
+.right-column {
+  
+    background-color: var(--bright);
+    padding: 10px;
+    margin-left: 10px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+  }
+
+  h1 {
+    margin-bottom:  15px;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 1.1;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+  }
+  
+ h2 {
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+    font-size: 1rem;
+  }
+
+  .who {
+    margin: 15px;
+    text-align: center;
+    padding-bottom: 20px;
+  }
+
+.photo {
+    border: 10px solid #d7f5d0;
+    border-radius: 50%;
+}
+
+.contacts {
+    font-weight: 500;
+}
+
+.code-example pre {
+    border: 2px solid #d7f5d0;
+    width: 350px;
+}
+
+.projects div{
+    border: 2px solid #d7f5d0;
+    width: 200px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.projects a {
+ text-decoration: none;
+ color: rgb(106, 143, 92);
+}
+
+
+.projects a:hover {
+    color: var(--dark);
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    color: rgb(255, 255, 255);
+    background-color: var(--dark);
+}
+
+footer a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+footer a:hover {
+    text-decoration: none;
+    color: #ffe3c4;
+}
+
+.footer__github {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+footer .github__icon {
+    margin-right: 10px;
+}
