@@ -15,6 +15,7 @@ body {
     background-color: rgb(240, 252, 209);
     box-shadow: 10px 10px 30px -1px rgba(0, 0, 0, 0.3);
     border-bottom: #505050;
+    font-family: 'Roboto', sans-serif;
     font-size: 18px;
     line-height: 1.5;
 }
@@ -55,17 +56,16 @@ main {
 }
 
 .left_column {
-    width: 260px;
-    color: black;
+    color: black; 
+    margin-right: 35px;
 }
 
 .right-column {
-    width: 50%;
-    
+  
     background-color: var(--bright);
     padding: 10px;
     margin-left: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     margin-top: 30px;
   }
 
@@ -84,9 +84,14 @@ main {
     font-size: 1rem;
   }
 
+  .who {
+    margin: 15px;
+    text-align: center;
+    padding-bottom: 20px;
+  }
+
 .photo {
-    margin: 5px 0;
-    border: 5px solid #d7f5d0;
+    border: 10px solid #d7f5d0;
     border-radius: 50%;
 }
 
@@ -103,6 +108,7 @@ main {
     border: 2px solid #d7f5d0;
     width: 200px;
     text-align: center;
+    margin-bottom: 20px;
 }
 
 .projects a {
