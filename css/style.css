@@ -32,7 +32,7 @@ header {
     list-style: none;
     margin: 10px;
     padding: 0;
-    font-size: 16px;    
+    font-size: 16px;
 }
 
 .menu a {
@@ -40,7 +40,7 @@ header {
     line-height: 50px;
     color: rgb(106, 143, 92);
     text-decoration: none;
-  }
+}
 
 .menu a:hover {
     color: var(--dark);
@@ -49,46 +49,46 @@ header {
 main {
     padding: 0 35px;
     margin-bottom: 20px;
-  }
-  
+}
+
 .columns {
     display: flex;
 }
 
 .left_column {
-    color: black; 
+    color: black;
     margin-right: 35px;
 }
 
 .right-column {
-  
+
     background-color: var(--bright);
     padding: 10px;
     margin-left: 10px;
     margin-bottom: 30px;
     margin-top: 30px;
-  }
+}
 
-  h1 {
-    margin-bottom:  15px;
+h1 {
+    margin-bottom: 15px;
     font-size: 2rem;
     font-weight: 600;
     line-height: 1.1;
     text-transform: uppercase;
     letter-spacing: 3px;
-  }
-  
- h2 {
+}
+
+h2 {
     margin-bottom: 20px;
     letter-spacing: 1px;
-    font-size: 1rem;
-  }
+    
+}
 
-  .who {
+.who {
     margin: 15px;
     text-align: center;
     padding-bottom: 20px;
-  }
+}
 
 .photo {
     border: 10px solid #d7f5d0;
@@ -104,7 +104,7 @@ main {
     width: 350px;
 }
 
-.projects div{
+.projects div {
     border: 2px solid #d7f5d0;
     width: 200px;
     text-align: center;
@@ -112,8 +112,8 @@ main {
 }
 
 .projects a {
- text-decoration: none;
- color: rgb(106, 143, 92);
+    text-decoration: none;
+    color: rgb(106, 143, 92);
 }
 
 
